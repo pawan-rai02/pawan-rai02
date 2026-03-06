@@ -46,23 +46,36 @@
 
 ### 🧑‍💻 About Me
 
-```python
-pawan = {
-    "focus"   : ["Data Pipelines", "ML Projects", "Analytical Systems"],
-    "langs"   : ["C++", "Python", "SQL", "JavaScript"],
-    "tools"   : ["Docker", "Git", "SQL/NoSQL DBs"],
-    "passion" : "Problem Solving 🧠",
-    "status"  : "Always building something cool 🚀"
-}
-```
+<div align="center">
 
-| 📌 | Info |
+| 🎯 **Focus Areas** | 🚀 **Status** |
 |---|---|
-| 🔭 | Currently working on **ML & Data Pipeline** projects |
+| Data Pipelines \| ML Projects \| Analytical Systems | Always building something cool |
+
+| 💼 **Languages** | 🛠️ **Tools** |
+|---|---|
+| <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=flat-square&logo=database&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/> | <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/SQL/NoSQL-%234479A1.svg?style=flat-square&logo=database&logoColor=white"/> |
+
+| 💡 **Passion** | 📫 **Contact** |
+|---|---|
+| Problem Solving 🧠 | pawanvirat32@gmail.com |
+
+</div>
+
+<br/>
+
+### 🔭 Currently Working On
+
+<div align="center">
+  
+| 📌 | Project Type |
+|---|---|
+| 🔭 | **ML & Data Pipeline** projects |
 | 🌱 | Deep-diving into **Machine Learning & AI** systems |
 | 💬 | Ask me about **C++**, **Python**, **SQL**, **Docker** |
 | 🎯 | Goal: Build impactful **data-driven solutions** |
-| 📫 | Reach me at **pawanvirat32@gmail.com** |
+
+</div>
 
 <br/>
 
@@ -71,30 +84,30 @@ pawan = {
 <!-- ═══════════════════════════════════════════════════════════ -->
 ### 🛠️ Tech Stack
 
-#### Languages
+#### 💻 Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=database&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="35" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" height="35" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-%23003B57.svg?style=for-the-badge&logo=database&logoColor=white" height="35" alt="SQL"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" height="35" alt="JavaScript"/>
 </div>
 
-#### Tools & Platforms
+#### 🛠️ Tools & Platforms
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="35" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="35" alt="Git"/>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="35" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="35" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="35" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" height="35" alt="Linux"/>
 </div>
 
-#### ML / AI
+#### 🤖 ML / AI
 <div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
-  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" height="35" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" height="35" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" height="35" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" height="35" alt="Pandas"/>
 </div>
 
 <br/>
